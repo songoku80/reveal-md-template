@@ -10,7 +10,8 @@
 - Headline 3
 - Headline 4
 - Headline 5
-- Headline 6
+- Q&A
+
 
 ---
 
@@ -88,7 +89,7 @@ reveal-md slides.md --theme moon
 - Sub-Text 2
 - Test "Image"
 <br>
-![epages](image.png)
+![epages](https://github.com/songoku80/reveal-md-template/blob/master/image.png)
 
 ----
 
@@ -108,9 +109,22 @@ reveal-md slides.md --theme moon
 ## Headine 3.3
 - Sub-Text 1
 - Sub-Text 2
-
+- ...
 
 ---
+
+# Headline 4
+- Sub-Text 1
+- Sub-Text 2
+- ...
+
+----
+
+## Headline 4.1
+- Sub-Text 1
+- Sub-Text 2
+-
+
 
 # Questions ?
 
