@@ -89,7 +89,7 @@ reveal-md slides.md --theme moon
 - Sub-Text 2
 - Test "Image"
 <br>
-![epages](https://github.com/songoku80/reveal-md-template/blob/master/image.png)
+![epages](./image.png)
 
 ----
 
